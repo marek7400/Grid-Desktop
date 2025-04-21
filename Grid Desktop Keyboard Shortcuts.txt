@@ -1,0 +1,24 @@
+Grid Desktop
+
+#Skróty klawiaturowe:
+
+Ctrl+Alt+F10 #pokaż siatkę/Ukryj siatkę
+Ctrl+Shift+Alt+END #EXIT
+Ctrl+Alt+strzałka LEWO/PRAWO #zwiększ/zmniejsz ilość linii poziomo
+Ctrl+Alt+strzałka GÓRA/DÓŁ #zwiększ/zmniejsz ilość linii pionowo
+Ctrl+Alt+[ lub Ctrl+Alt+] #pozycja startowa siatki zmiana góra/dół
+Ctrl+Alt+: lub Ctrl+Alt+\ #pozycja startowa siatki zmiana lewo/prawo
+Ctrl+Alt+F11 #resetuj pozycję siatki do 0,0
+Ctrl+Alt+F12 #pokaż/ukryj kropki
+
+#Keyboard Shortcuts:
+
+Ctrl+Alt+F10 #Show/Hide Grid 
+Ctrl+Shift+Alt+END #EXIT 
+Ctrl+Alt+LEFT ARROW/RIGHT ARROW #Increase/Decrease horizontal lines 
+Ctrl+Alt+UP ARROW/DOWN ARROW #Increase/Decrease vertical lines 
+Ctrl+Alt+[ or Ctrl+Alt+] #Change grid start position up/down 
+Ctrl+Alt+: or Ctrl+Alt+\ #Change grid start position left/right 
+Ctrl+Alt+F11 #Reset grid position to 0,0 
+Ctrl+Alt+F12 #Show/Hide dots
+
